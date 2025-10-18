@@ -46,7 +46,7 @@ O projeto é composto por **3 páginas principais**, todas estruturadas com **HT
 ## 👩‍💻 Desenvolvido por
 
 **Letícia Ferraz**  
-💻 Projeto acadêmico — Desenvolvimento Front-End (Experiência Prática I)
+💻 Projeto acadêmico — Desenvolvimento Front-End (Experiência Prática II)
 
 ---
 
